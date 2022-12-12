@@ -1,0 +1,562 @@
+0
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OR  O  O     OR  O  O     OR  O  O     OR  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+1
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OSR O  O     OSR O  O     OSR O  O
+OR BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+2
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O RBBB O     O RBBB O     O RBBB O     O RBBB O
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+3
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSR    O     OSR    O     OSR    O     OSR    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+4
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSSR   O     OSSR   O     OSSR   O     OSSR   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+5
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS R  O     OSS R  O     OSS R  O     OSS R  O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+6
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS  R O     OSS  R O     OSS  R O     OSS  R O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+7
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS   RO     OSS   RO     OSS   RO     OSS   RO
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+8
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBBRO     O  BBBRO     O  BBBRO     O  BBBRO
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+9
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O RO     OS  O RO     OS  O RO     OS  O RO
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+10
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  OR O     OS  OR O     OS  OR O     OS  OR O
+O  BBB O     O  BBB O     O  BBB O     O  BBB O
+OSS    O     OSS    O     OSS    O     OSS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+11
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BBR O     O  BBR O     O  BBR O     O  BBR O
+OSS  B O     OSS  B O     OSS  B O     OSS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+12
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB RO     O  BB RO     O  BB RO     O  BB RO
+OSS  B O     OSS  B O     OSS  B O     OSS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+13
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OSS  BRO     OSS  BRO     OSS  BRO     OSS  BRO
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+14
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OSS BR O     OSS BR O     OSS BR O     OSS BR O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+15
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OSSBR  O     OSSBR  O     OSSBR  O     OSSBR  O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+16
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OSBR   O     OSBR   O     OSBR   O     OSBR   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+17
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OBR    O     OBR    O     OBR    O     OBR    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+18
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O RBB  O     O RBB  O     O RBB  O     O RBB  O
+OBS    O     OBS    O     OBS    O     OBS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+19
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSR O  O     OS  O  O     OSR O  O     OSR O  O
+O  BB  O     OR BB  O     O  BB  O     O  BB  O
+OBS    O     OBS    O     OBS    O     OBS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+20
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS RO  O     OR  O  O     OS RO  O     OS RO  O
+O  BB  O     O  BB  O     O  BB  O     O  BB  O
+OBS    O     OBS    O     OBS    O     OBS    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+21
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OSR O  O     OS  O  O     OS  O  O
+O  RB  O     O  BB  O     O  RB  O     O  RB  O
+OBSB   O     OBS    O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+22
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS RO  O     OS  O  O     OS  O  O
+O   RB O     O  BB  O     O   RB O     O   RB O
+OBSB   O     OBS    O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+23
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O    B O     O  RB  O     O    B O     O    B O
+OBSBR  O     OBSB   O     OBSBR  O     OBSBR  O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+24
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O    B O     O   RB O     O    B O     O    B O
+OBSB R O     OBSB   O     OBSB R O     OBSB R O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+25
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O    B O     O    B O     O    B O     O    B O
+OBSB  RO     OBSBR  O     OBSB  RO     OBSB  RO
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+26
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O    BRO     O    B O     O    BRO     O    BRO
+OBSB   O     OBSB R O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+27
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O   BR O     O    B O     O   BR O     O   BR O
+OBSB   O     OBSB  RO     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+28
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BR  O     O    BRO     O  BR  O     O  BR  O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+29
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O BR   O     O   BR O     O BR   O     O BR   O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+30
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS RO  O     OS  O  O     OS RO  O     OS RO  O
+O B    O     O  BR  O     O B    O     O B    O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+31
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSR O  O     OS  O  O     OSR O  O     OSR O  O
+O B    O     O BR   O     O B    O     O B    O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+32
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OR  O  O     OS RO  O     OR  O  O     OR  O  O
+O B    O     O B    O     O B    O     O B    O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+33
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OSR O  O     OS  O  O     OS  O  O
+ORB    O     O B    O     ORB    O     ORB    O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+34
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OR  O  O     OS  O  O     OS  O  O
+O RB   O     O B    O     O RB   O     O RB   O
+OBSB   O     OBSB   O     OBSB   O     OBSB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+35
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  B   O     ORB    O     O  B   O     O  B   O
+OBRB   O     OBSB   O     OBRB   O     OBRB   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+36
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  B   O     O RB   O     O  B   O     O  B   O
+OBSRB  O     OBSB   O     OBSRB  O     OBSRB  O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+37
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  B   O     O  B   O     O  B   O     O  B   O
+OBS RB O     OBRB   O     OBS RB O     OBS RB O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+38
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O  BR  O     O  B   O     O  BR  O     O  BR  O
+OBS  B O     OBSRB  O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+39
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O BR   O     O  B   O     O BR   O     O BR   O
+OBS  B O     OBS RB O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+40
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O B    O     O  BR  O     O B    O     O B    O
+OBSR B O     OBS  B O     OBSR B O     OBSR B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+41
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OS  O  O     OS  O  O     OS  O  O     OS  O  O
+O B    O     O BR   O     O B    O     O B    O
+OBR  B O     OBS  B O     OBR  B O     OBR  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+42
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OS  O  O     OSB O  O     OSB O  O
+O R    O     O B R  O     O R    O     O R    O
+OBS  B O     OBS  B O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+43
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OS  O  O     OSB O  O     OSB O  O
+O  R   O     O B    O     O  R   O     O  R   O
+OBS  B O     OBS RB O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+44
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OS  O  O     OSBRO  O     OSB O  O
+O   R  O     O B    O     O      O     O   R  O
+OBS  B O     OBSR B O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+45
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OS  O  O     OBR O  O     OSB O  O
+O    R O     O B    O     O      O     O    R O
+OBS  B O     OBR  B O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+46
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O     RO     O R    O     O R    O     O     RO
+OBS  B O     OBS  B O     OBS  B O     OBS  B O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+47
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O      O     O      O     O  R   O     O      O
+OBS  BRO     OBR  B O     OBS  B O     OBS  BRO
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+48
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O      O     O      O     O   R  O     O      O
+OBS BR O     OBSR B O     OBS  B O     OBS BR O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+49
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O      O     O      O     O    R O     O      O
+OBSBR  O     OBS RB O     OBS  B O     OBSBR  O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+50
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O      O     O   R  O     O     RO     O      O
+OBBR   O     OBS  B O     OBS  B O     OBBR   O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+51
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSB O  O     OSB O  O     OB  O  O     OSB O  O
+O  R   O     O  R   O     O      O     O  R   O
+OBB    O     OBS  B O     OBS  BRO     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+52
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OSBRO  O     OSBRO  O     OB  O  O     OSBRO  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS  B O     OBS BR O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+53
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OBR O  O     OB  O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS  B O     OBSBR  O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+54
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OB  O  O     OBR O  O
+O      O     O R    O     O      O     O      O
+OBB    O     OBS  B O     OBBR   O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+55
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBR  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+56
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBSR B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+57
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS RB O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+58
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O   R  O     O      O     O      O
+OBB    O     OBS  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+59
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O    R O     O      O     O      O
+OBB    O     OBS  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+60
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  OR O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+61
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O RO     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+62
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O     RO     O      O     O      O
+OBB    O     OBS  B O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+63
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS  BRO     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+64
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBS BR O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+65
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBSBR  O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+66
+********
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+OBR O  O     OB  O  O     OBR O  O     OBR O  O
+O      O     O      O     O      O     O      O
+OBB    O     OBBR   O     OBB    O     OBB    O
+OOOOOOOO     OOOOOOOO     OOOOOOOO     OOOOOOOO
+
+
+Solved: True
+Unique States Searched: 17901
+Upper Bound of Unique States: 12240
+Max Fringe Size: 1156
+Total Time: 0:00:00.702850
+Path Length: 54
+Used Algorithm: Breadth First Search
+Used Heuristic: 
+Directionality: One-directional
+Average Time per Unique State: 0:00:00.000039
+
+Solved: True
+Unique States Searched: 2300
+Upper Bound of Unique States: 12240
+Max Fringe Size: 53
+Total Time: 0:00:00.076290
+Path Length: 67
+Used Algorithm: Depth First Search
+Used Heuristic: 
+Directionality: One-directional
+Average Time per Unique State: 0:00:00.000033
+
+Solved: True
+Unique States Searched: 2458
+Upper Bound of Unique States: 12240
+Max Fringe Size: 67
+Total Time: 0:00:00.124081
+Path Length: 55
+Used Algorithm: Greedy Best Search
+Used Heuristic: Manhattan Distance
+Directionality: One-directional
+Average Time per Unique State: 0:00:00.000050
+
+Solved: True
+Unique States Searched: 6532
+Upper Bound of Unique States: 12240
+Max Fringe Size: 444
+Total Time: 0:00:00.416105
+Path Length: 54
+Used Algorithm: A*
+Used Heuristic: Manhattan Distance
+Directionality: One-directional
+Average Time per Unique State: 0:00:00.000064
